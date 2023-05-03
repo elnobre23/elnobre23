@@ -14,13 +14,9 @@ Sou fluente em inglês.
 
 ## 🛠️ Linguagens e Tecnologias:
 <p>
-<!- 💻PYTHON ->
-</p>
-<p>
-<img align="center" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25px">
-<img align="center" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
-<img align="center" alt="kali linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="25px"/>
+<img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50"/>
+<img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50"/>
+<img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
 </p>
 
 ## ❤️ Connect with me:
