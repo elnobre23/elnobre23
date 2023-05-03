@@ -8,7 +8,7 @@
 
 Apesar de trabalhar como advogado, minha paixão  por tecnologia, desenvolvimento de softwares e segurança da informação me fez sair da zona de conforto e iniciar uma segunda graduação em Ciências da Computação, objetivando uma transição de carreira para a área da TI.
 <p>
-Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio da linguagem Python. <div> </div>
+Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio da linguagem Python, bem como estudo MangoDB e MySQL. <div> </div>
 Sou fluente em inglês.
 </p>
 
