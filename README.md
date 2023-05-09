@@ -4,7 +4,7 @@
   
 ## 👨🏻‍💻 Sobre mim:
 
-<img align="right" src="https://i.ibb.co/Z2dpM4Q/Whats-App-Image-2023-05-02-at-20-00-58.jpg" height="290px" />
+<div><img align="right" src="https://i.ibb.co/Z2dpM4Q/Whats-App-Image-2023-05-02-at-20-00-58.jpg" height="290px"/></div>
 
 Apesar de trabalhar como advogado, minha paixão  por tecnologia, desenvolvimento de softwares e segurança da informação me fez sair da zona de conforto e iniciar uma segunda graduação em Ciências da Computação, objetivando uma transição de carreira para a área da TI.
 <p>
