@@ -1,16 +1,14 @@
 <h1 align="center">Olá, pessoal! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">😊 Sou Breno Cuzzuol, tudo certo?</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elnobre23&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  
+ 
 ## 👨🏻‍💻 Sobre mim:
 
-<div><img align="right" src="https://i.ibb.co/Z2dpM4Q/Whats-App-Image-2023-05-02-at-20-00-58.jpg" height="290px"/></div>
+<p>Apesar de trabalhar como advogado, minha paixão  por tecnologia, desenvolvimento de softwares e segurança da informação me fez sair da zona de conforto e iniciar uma segunda graduação em Ciências da Computação, objetivando uma transição de carreira para a área da TI.</p>
 
-Apesar de trabalhar como advogado, minha paixão  por tecnologia, desenvolvimento de softwares e segurança da informação me fez sair da zona de conforto e iniciar uma segunda graduação em Ciências da Computação, objetivando uma transição de carreira para a área da TI.
-<p>
-Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio da linguagem Python, bem como estudo MongoDB e MySQL. <div> </div>
-Sou fluente em inglês.
-</p>
+<p>Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio da linguagem Python, bem como estudo MongoDB e MySQL.</p>
+
+<p>Sou fluente em inglês.</p>
 
 ## 🛠️ Linguagens e Tecnologias:
 <p>
