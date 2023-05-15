@@ -6,13 +6,14 @@
 
 <p>Apesar de trabalhar como advogado, minha paixão  por tecnologia, desenvolvimento de softwares e segurança da informação me fez sair da zona de conforto e iniciar uma segunda graduação em Ciências da Computação, objetivando uma transição de carreira para a área da TI.</p>
 
-<p>Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio da linguagem Python, bem como estudo MongoDB e MySQL.</p>
+<p>Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio das linguagens Python e C#, bem como estudo MongoDB e MySQL.</p>
 
 <p>Sou fluente em inglês.</p>
 
 ## 🛠️ Linguagens e Tecnologias:
 <p>
 <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50"/>
+<img align="center" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
 <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50"/>
 <img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
 </p>
