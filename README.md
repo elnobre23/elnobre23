@@ -21,6 +21,6 @@
 ## ❤️ Connect with me:
   
 <p align="left">
-<a href="https://www.linkedin.com/in/brenocuzzuol/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Breno Cuzzuol" height="40" width="120" /></a> 
+<a href="https://www.linkedin.com/in/brenosc/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Breno Cuzzuol" height="40" width="120" /></a> 
 <a href="mailto:brenoscuzzuol@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Breno Cuzzuol" height="40" width="120" /></a>
 </p>
