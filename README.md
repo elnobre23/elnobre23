@@ -6,9 +6,9 @@
 
 <p>Estudante de Ciências da Computação com um perfil analítico e criativo, estou em busca de oportunidades de estágio ou colaboração para aplicar meu conhecimento teórico em projetos práticos. 
 
-🌟 Constantemente empenhado em expandir meu conhecimento, busco aprimorar minhas habilidades em desenvolvimento de software, destacando minha expertise em Java, SQL, Python, Angular e Typescript. Essa diversidade de linguagens e ferramentas me permite abordar projetos de maneira abrangente, desde o backend até o frontend, tornando-me um profissional Fullstack.
+Constantemente empenhado em expandir meu conhecimento, busco aprimorar minhas habilidades em desenvolvimento de software, destacando minha expertise em Java, SQL, Python, Angular e Typescript. Essa diversidade de linguagens e ferramentas me permite abordar projetos de maneira abrangente, desde o backend até o frontend, tornando-me um profissional Fullstack.
 
-🚀 Determinado a fazer a diferença, estou ansioso para fazer parte de equipes que enfrentam desafios inovadores e buscam soluções criativas. Meu perfil comunicativo facilita a colaboração efetiva, enquanto minha abordagem analítica garante uma compreensão profunda dos problemas, resultando em soluções robustas e eficientes. 
+Determinado a fazer a diferença, estou ansioso para fazer parte de equipes que enfrentam desafios inovadores e buscam soluções criativas. Meu perfil comunicativo facilita a colaboração efetiva, enquanto minha abordagem analítica garante uma compreensão profunda dos problemas, resultando em soluções robustas e eficientes. 
 
 <p>Sou fluente em inglês.</p>
 
