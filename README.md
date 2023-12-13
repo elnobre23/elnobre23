@@ -4,9 +4,11 @@
  
 ## 👨🏻‍💻 Sobre mim:
 
-<p>Apesar de trabalhar como advogado, minha paixão  por tecnologia, desenvolvimento de softwares e segurança da informação me fez sair da zona de conforto e iniciar uma segunda graduação em Ciências da Computação, objetivando uma transição de carreira para a área da TI.</p>
+<p>Estudante de Ciências da Computação com um perfil analítico e criativo, estou em busca de oportunidades de estágio ou colaboração para aplicar meu conhecimento teórico em projetos práticos. 
 
-<p>Atualmente, ingressando no ramo de Software, dedico-me integralmente ao dominio das linguagens Python e C#, bem como estudo MongoDB e MySQL.</p>
+🌟 Constantemente empenhado em expandir meu conhecimento, busco aprimorar minhas habilidades em desenvolvimento de software, destacando minha expertise em Java, SQL, Python, Angular e Typescript. Essa diversidade de linguagens e ferramentas me permite abordar projetos de maneira abrangente, desde o backend até o frontend, tornando-me um profissional Fullstack.
+
+🚀 Determinado a fazer a diferença, estou ansioso para fazer parte de equipes que enfrentam desafios inovadores e buscam soluções criativas. Meu perfil comunicativo facilita a colaboração efetiva, enquanto minha abordagem analítica garante uma compreensão profunda dos problemas, resultando em soluções robustas e eficientes. 
 
 <p>Sou fluente em inglês.</p>
 
